@@ -1,7 +1,16 @@
 {
   "name": "awesome-mapping-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
+  "author": {
+    "name": "Stefan Nieuwenhuis",
+    "email": "stefan.nieuwenhuis@ordina.nl",
+    "url": "https://StefanNieuwenhuis.github.io"
+  },
+  "repository": {
+    "type": "GIT",
+    "url": "https://github.com/StefanNieuwenhuis/awesome-mapping-app"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
